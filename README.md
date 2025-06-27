@@ -30,7 +30,10 @@ The models was evaluated using:
 - Mean Squared Error (MSE)
 Performance was acceptable across all parameters
 
-# Model link:
+# Model link for RandomForestRegressor:
+https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
+
+# Model link for XGBoost:
 https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
 
 # Internship Details
