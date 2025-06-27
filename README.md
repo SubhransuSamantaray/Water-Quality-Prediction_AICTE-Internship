@@ -1,4 +1,4 @@
-# Water-Quality-Prediction_AICTE-Internship
+# Water Quality Prediction AICTE Internship
 This project aims to predict multiple water quality parameters using machine learning techniques, specifically MultiOutputRegressor wrapped around a RandomForestRegressor and XGBoost. It was developed as part of a one-month AICTE Virtual Internship sponsored by Shell in June 2025.
 
 # Overview
