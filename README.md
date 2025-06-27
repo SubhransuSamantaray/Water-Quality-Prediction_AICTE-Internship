@@ -31,10 +31,10 @@ The models was evaluated using:
 Performance was acceptable across all parameters
 
 # Model link for RandomForestRegressor:
-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
+https://drive.google.com/file/d/1GByHdPxytSLlET3CEtGAujzX6TVRV8IG/view?usp=sharing
 
 # Model link for XGBoost:
-https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=sharing
+https://drive.google.com/file/d/1XVvk2My2ffucJswfXXsI24cxHgM_H6Qc/view?usp=sharing
 
 # Internship Details
 - Internship Type: AICTE Virtual Internship - Edunet Foundation
